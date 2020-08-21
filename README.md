@@ -1,2 +1,2 @@
 # Smily-Game
-Phone app
+Mobile game greated in Unity.
